@@ -1,8 +1,3 @@
-==================================
-FILE:
-answers/README.md
-==================================
-
 # Answers
 
 Answers and review keys live here.

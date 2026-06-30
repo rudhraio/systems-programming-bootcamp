@@ -1,8 +1,3 @@
-==================================
-FILE:
-answers/day01.md
-==================================
-
 # Answers - Day 01
 
 1. Source is human-written C. Object file is compiled machine code plus symbols and relocation data. Executable is the linked runnable program.

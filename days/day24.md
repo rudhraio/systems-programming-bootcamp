@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day24.md
-==================================
-
 # Day 24 - Semaphores, Shared Memory, mmap
 
 ## Objectives

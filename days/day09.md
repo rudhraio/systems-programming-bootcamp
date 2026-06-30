@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day09.md
-==================================
-
 # Day 09 - Object Files, Symbols, Static Libraries
 
 ## Objectives

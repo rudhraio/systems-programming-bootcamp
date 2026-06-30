@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day26.md
-==================================
-
 # Day 26 - Debugging Native Programs
 
 ## Objectives

@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day02.md
-==================================
-
 # Day 02 - Pointers, Arrays, And Address Thinking
 
 ## Objectives

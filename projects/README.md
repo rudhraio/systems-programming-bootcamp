@@ -1,8 +1,3 @@
-==================================
-FILE:
-projects/README.md
-==================================
-
 # Projects
 
 Learner code should live here.

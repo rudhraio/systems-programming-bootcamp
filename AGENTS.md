@@ -1,8 +1,3 @@
-==================================
-FILE:
-AGENTS.md
-==================================
-
 # Agent Instructions
 
 This repository is designed to be used by Codex or another AI coding agent as a persistent teaching workspace.

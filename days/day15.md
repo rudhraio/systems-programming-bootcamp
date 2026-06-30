@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day15.md
-==================================
-
 # Day 15 - Memory Allocator Mental Model
 
 ## Objectives

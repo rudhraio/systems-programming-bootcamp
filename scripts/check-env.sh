@@ -1,8 +1,3 @@
-==================================
-FILE:
-scripts/check-env.sh
-==================================
-
 #!/usr/bin/env sh
 set -eu
 
@@ -25,6 +20,9 @@ echo
 echo "GCC:"
 if command -v gcc >/dev/null 2>&1; then
     gcc --version | sed -n '1,3p'
+    if gcc --version 2>/dev/null | sed -n '1p' | grep -qi 'clang'; then
+        echo "note: this gcc command is a Clang frontend on this system"
+    fi
 else
     echo "gcc not found"
 fi

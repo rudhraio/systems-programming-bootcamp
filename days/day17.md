@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day17.md
-==================================
-
 # Day 17 - Smart Pointers, Move Semantics, Rule Of Five
 
 ## Objectives

@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day06.md
-==================================
-
 # Day 06 - Bits, Bytes, Alignment, And Binary Data
 
 ## Objectives

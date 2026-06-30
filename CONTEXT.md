@@ -1,8 +1,3 @@
-==================================
-FILE:
-CONTEXT.md
-==================================
-
 # Learner Context
 
 ## Current Knowledge
@@ -54,7 +49,7 @@ Linux practice should use one of:
 
 ## Available Time
 
-Exactly one hour per day.
+About one hour per day.
 
 Daily lessons must be small enough to complete without spillover:
 

@@ -1,0 +1,39 @@
+# macOS and editor noise
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Native build outputs
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.ko
+*.mod
+*.mod.c
+*.cmd
+*.symvers
+*.order
+
+# Common local build directories
+build/
+dist/
+bin/
+obj/
+
+# Sanitizer, debugger, and runtime artifacts
+*.dSYM/
+core
+core.*
+vgcore.*
+*.profraw
+*.gcda
+*.gcno
+
+# Learner-local scratch space
+tmp/
+scratch/

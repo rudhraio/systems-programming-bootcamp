@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day27.md
-==================================
-
 # Day 27 - Linux Environments, schroot, Containers, VMs
 
 ## Objectives

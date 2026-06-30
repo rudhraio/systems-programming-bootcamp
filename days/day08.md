@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day08.md
-==================================
-
 # Day 08 - Compiler Pipeline
 
 ## Objectives

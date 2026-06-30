@@ -1,8 +1,3 @@
-==================================
-FILE:
-GNU_TOOLCHAIN.md
-==================================
-
 # GNU Toolchain
 
 The GNU toolchain is the traditional Unix-like systems programming toolbox.

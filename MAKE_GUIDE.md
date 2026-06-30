@@ -1,8 +1,3 @@
-==================================
-FILE:
-MAKE_GUIDE.md
-==================================
-
 # Make Guide
 
 Make solves one practical problem: rebuild only what is out of date.

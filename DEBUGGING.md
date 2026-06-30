@@ -1,8 +1,3 @@
-==================================
-FILE:
-DEBUGGING.md
-==================================
-
 # Debugging Native Programs
 
 Debugging is evidence collection. Do not guess for long.

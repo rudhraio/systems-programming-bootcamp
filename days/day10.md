@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day10.md
-==================================
-
 # Day 10 - Shared Libraries And Dynamic Loading
 
 ## Objectives

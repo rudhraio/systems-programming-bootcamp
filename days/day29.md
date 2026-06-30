@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day29.md
-==================================
-
 # Day 29 - Kernel Architecture And Driver Concepts
 
 ## Objectives

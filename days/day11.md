@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day11.md
-==================================
-
 # Day 11 - Make Fundamentals
 
 ## Objectives

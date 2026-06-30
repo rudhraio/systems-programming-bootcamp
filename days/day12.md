@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day12.md
-==================================
-
 # Day 12 - Make Pattern Rules And Build Modes
 
 ## Objectives

@@ -1,8 +1,3 @@
-==================================
-FILE:
-prompts/project-review.md
-==================================
-
 # Prompt: Project Review
 
 ```text

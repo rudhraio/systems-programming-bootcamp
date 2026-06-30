@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day25.md
-==================================
-
 # Day 25 - Sockets Basic Networking
 
 ## Objectives

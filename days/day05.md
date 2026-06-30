@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day05.md
-==================================
-
 # Day 05 - Undefined Behavior, const, static, volatile, restrict
 
 ## Objectives

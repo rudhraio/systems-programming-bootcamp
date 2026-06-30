@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day16.md
-==================================
-
 # Day 16 - Modern C++ Foundations For C Programmers
 
 ## Objectives

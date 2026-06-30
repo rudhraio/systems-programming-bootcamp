@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day03.md
-==================================
-
 # Day 03 - Structs, Layout, Enums, Typedef, And Headers
 
 ## Objectives

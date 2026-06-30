@@ -1,8 +1,3 @@
-==================================
-FILE:
-POSIX.md
-==================================
-
 # POSIX
 
 POSIX is a standards family that describes portable Unix-like operating system interfaces.

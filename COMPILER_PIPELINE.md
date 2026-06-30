@@ -1,8 +1,3 @@
-==================================
-FILE:
-COMPILER_PIPELINE.md
-==================================
-
 # Compiler Pipeline
 
 The compiler pipeline turns source code into a running process.

@@ -1,8 +1,3 @@
-==================================
-FILE:
-RESOURCES.md
-==================================
-
 # Resources
 
 Prefer official documentation and high-quality primary references.

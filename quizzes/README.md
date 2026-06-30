@@ -1,8 +1,3 @@
-==================================
-FILE:
-quizzes/README.md
-==================================
-
 # Quizzes
 
 Quizzes should be generated from the day files and learner progress.

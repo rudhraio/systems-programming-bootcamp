@@ -1,8 +1,3 @@
-==================================
-FILE:
-quizzes/day01.md
-==================================
-
 # Quiz - Day 01
 
 1. What is the difference between a source file, object file, and executable?

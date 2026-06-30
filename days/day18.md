@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day18.md
-==================================
-
 # Day 18 - Templates, STL, Algorithms, Lambdas
 
 ## Objectives

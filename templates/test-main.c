@@ -1,8 +1,3 @@
-==================================
-FILE:
-templates/test-main.c
-==================================
-
 #include <assert.h>
 
 static void test_example(void) {

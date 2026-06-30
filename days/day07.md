@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day07.md
-==================================
-
 # Day 07 - Revision Project 1: C Foundations
 
 ## Objectives

@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day14.md
-==================================
-
 # Day 14 - Revision Project 2: Build And Toolchain
 
 ## Objectives

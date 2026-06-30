@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day04.md
-==================================
-
 # Day 04 - Stack, Heap, Lifetime, And malloc
 
 ## Objectives

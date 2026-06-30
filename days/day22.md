@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day22.md
-==================================
-
 # Day 22 - Pipes, Redirection, And Signals
 
 ## Objectives

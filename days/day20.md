@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day20.md
-==================================
-
 # Day 20 - Processes: fork, exec, wait, Environment
 
 ## Objectives

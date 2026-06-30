@@ -1,8 +1,3 @@
-==================================
-FILE:
-notes/README.md
-==================================
-
 # Notes
 
 Use this directory for personal notes, debugging writeups, and lesson summaries.

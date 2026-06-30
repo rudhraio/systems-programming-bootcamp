@@ -1,8 +1,3 @@
-==================================
-FILE:
-prompts/code-review.md
-==================================
-
 # Prompt: Code Review
 
 ```text

@@ -1,8 +1,3 @@
-==================================
-FILE:
-COMMANDS.md
-==================================
-
 # Practical Command Cheat Sheet
 
 Use these commands as starting points. Prefer understanding each flag over memorizing long command lines.

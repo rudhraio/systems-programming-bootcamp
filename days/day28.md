@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day28.md
-==================================
-
 # Day 28 - Revision Project 4: Mini Shell Part 2
 
 ## Objectives

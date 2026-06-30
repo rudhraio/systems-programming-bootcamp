@@ -1,8 +1,3 @@
-==================================
-FILE:
-MEMORY.md
-==================================
-
 # Memory
 
 Memory is the central mental model of systems programming.

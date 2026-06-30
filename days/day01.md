@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day01.md
-==================================
-
 # Day 01 - Toolchain Orientation And Serious Hello World
 
 ## Objectives

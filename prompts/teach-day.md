@@ -1,8 +1,3 @@
-==================================
-FILE:
-prompts/teach-day.md
-==================================
-
 # Prompt: Teach Day
 
 Use this when starting a daily lesson.

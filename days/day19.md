@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day19.md
-==================================
-
 # Day 19 - POSIX Files And File Descriptors
 
 ## Objectives

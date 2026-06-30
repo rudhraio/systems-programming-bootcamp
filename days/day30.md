@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day30.md
-==================================
-
 # Day 30 - Driver Skeleton, Capstone Review, Next 90 Days
 
 ## Objectives

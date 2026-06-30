@@ -1,8 +1,3 @@
-==================================
-FILE:
-templates/cpp-main.cpp
-==================================
-
 #include <iostream>
 #include <vector>
 

@@ -1,13 +1,24 @@
-==================================
-FILE:
-HOW_TO_USE.md
-==================================
-
 # How To Use This Repository
 
-This repository is a personal systems programming mentor workspace. It is meant to be used daily with an AI mentor, your editor, your compiler, and your terminal.
+This repository is a systems programming mentor workspace template. Fork it or create a repository from it, then use it daily with an AI mentor, your editor, your compiler, and your terminal.
 
 Do not treat it like a book to read from top to bottom. Treat it like a training workspace.
+
+## First-Time Setup
+
+1. Run the environment check:
+
+```sh
+sh scripts/check-env.sh
+```
+
+2. Edit `CONTEXT.md` if your operating system, compiler, editor, or daily time budget differs.
+3. Leave `SYSTEM.md`, `AGENTS.md`, and `ROADMAP.md` stable unless you are intentionally changing the course design.
+4. Start with:
+
+```text
+Teach Day 01
+```
 
 ## The Daily Workflow
 
@@ -140,7 +151,7 @@ notes/day11-make-confusions.md
 notes/linux-vm-setup.md
 ```
 
-Use `templates/` only as starter references. When copying a template into a real project, remove the top file-marker block because actual C/C++ source files cannot compile with that marker.
+Use `templates/` only as starter references. Copy a template into a project directory, rename it if needed, then modify it for that day's exercise.
 
 ## How To Track Progress
 
@@ -161,6 +172,8 @@ Next session:
 ```
 
 Progress tracking matters because future AI sessions can read it and continue without asking you to repeat your background.
+
+If you publish your completed learning repository later, review `PROGRESS.md`, `notes/`, and `projects/` first. They may contain personal details, paths, command output, or unfinished experiments.
 
 ## How To Use The Day Files
 

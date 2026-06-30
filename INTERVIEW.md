@@ -1,8 +1,3 @@
-==================================
-FILE:
-INTERVIEW.md
-==================================
-
 # Interview Practice
 
 This course is not optimized for interview cramming. Interview questions here are used to test practical understanding.

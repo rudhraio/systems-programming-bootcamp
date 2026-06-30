@@ -1,11 +1,6 @@
-==================================
-FILE:
-PROGRESS.md
-==================================
-
 # Progress Log
 
-Use this file to maintain continuity across sessions.
+Use this file to maintain continuity across sessions. It starts with a neutral template state so a new learner can fork the repository and begin from Day 01.
 
 ## Current Status
 
@@ -25,11 +20,7 @@ None yet.
 
 ## Concepts To Revise
 
-- pointer ownership
-- memory layout
-- compiler pipeline
-- Make dependencies
-- Linux vs macOS differences
+Add concepts here as they come up during lessons.
 
 ## Session Log Template
 

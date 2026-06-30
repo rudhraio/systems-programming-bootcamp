@@ -1,11 +1,6 @@
-==================================
-FILE:
-README.md
-==================================
-
 # Systems Programming Bootcamp
 
-This repository is a self-contained 30-day systems programming course for a learner who knows basic C and has exactly one hour per day.
+This repository is a self-contained 30-day systems programming course template for learners who know basic C and have about one hour per day.
 
 It is designed to act as persistent context for future AI teaching sessions. A future mentor should be able to read `SYSTEM.md`, `HOW_TO_USE.md`, `AGENTS.md`, `CONTEXT.md`, and `ROADMAP.md`, then respond naturally to prompts such as:
 
@@ -19,14 +14,21 @@ It is designed to act as persistent context for future AI teaching sessions. A f
 
 ## Start Here
 
-Read these files in order:
+If you are using this as a GitHub template or fork:
 
-1. `SYSTEM.md` - permanent teaching instructions
-2. `HOW_TO_USE.md` - daily workflow and repository usage guide
-3. `CONTEXT.md` - learner profile
-4. `ROADMAP.md` - 30-day course map
-5. `AGENTS.md` - exact instructions for Codex or another coding agent
-6. `days/day01.md` - first lesson
+1. Run `sh scripts/check-env.sh`.
+2. Adjust `CONTEXT.md` if your setup differs from the default macOS-oriented profile.
+3. Ask your AI mentor: `Teach Day 01`.
+4. Put your code under `projects/` and notes under `notes/`.
+5. Update `PROGRESS.md` after each session.
+
+Read these files first:
+
+1. `HOW_TO_USE.md` - daily workflow and repository usage guide
+2. `CONTEXT.md` - learner profile
+3. `ROADMAP.md` - 30-day course map
+4. `AGENTS.md` - exact instructions for Codex or another coding agent
+5. `days/day01.md` - first lesson
 
 ## Repository Layout
 
@@ -39,6 +41,7 @@ systems-programming-bootcamp/
 |-- CONTEXT.md
 |-- ROADMAP.md
 |-- PROGRESS.md
+|-- .gitignore
 |-- GLOSSARY.md
 |-- COMMANDS.md
 |-- DEBUGGING.md
@@ -96,6 +99,12 @@ For deeper understanding:
 Deep dive into malloc
 ```
 
+To check your local tools:
+
+```sh
+sh scripts/check-env.sh
+```
+
 ## Environment Assumptions
 
 Primary host:
@@ -127,10 +136,14 @@ By the end of Day 30, the learner should have built:
 - Makefile project
 - Memory allocator
 - Mini shell
-- Thread pool
+- Thread race demonstration
 - Networking utility
 - Unit tests
 - File copy utility
 - Character driver skeleton
 
 This is not interview cramming. It is a practical path toward becoming comfortable with real systems software.
+
+## Publishing Notes
+
+Before publishing your own copy publicly, choose a repository license and add a `LICENSE` file. This template intentionally does not assume a license for you.

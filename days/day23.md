@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day23.md
-==================================
-
 # Day 23 - Threads And Mutexes
 
 ## Objectives

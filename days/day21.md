@@ -1,8 +1,3 @@
-==================================
-FILE:
-days/day21.md
-==================================
-
 # Day 21 - Revision Project 3: Mini Shell Part 1
 
 ## Objectives
