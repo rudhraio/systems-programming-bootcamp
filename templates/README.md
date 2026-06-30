@@ -2,7 +2,9 @@
 
 Reusable starter files live here.
 
-Use templates to avoid rebuilding project structure from memory. Understand every line before copying it into a project.
+Templates are generic scaffolding, not completed course work. They exist so a learner can start a new exercise with a clean `main.c`, header, test file, or Makefile without rebuilding the same boilerplate from memory.
+
+Use them when a day asks you to create a new project under `projects/`. Copy only what you need, then modify the copied files for that exercise. Understand every line before using it.
 
 Suggested use:
 
@@ -19,3 +21,5 @@ cd projects/day01-hello
 make
 ./app
 ```
+
+Keep completed exercises under `projects/`, not in this directory.

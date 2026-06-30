@@ -1,6 +1,6 @@
 # Quizzes
 
-Quizzes should be generated from the day files and learner progress.
+Quizzes should be generated from the day files and learner progress. A fresh fork starts without day-specific quiz files; add them only after a learner asks for a saved quiz or you want reusable quiz material.
 
 Question types:
 

@@ -2,6 +2,8 @@
 
 Learner code should live here.
 
+A fresh fork starts without project directories. Create each directory when you begin that day.
+
 Suggested project directories:
 
 ```text
