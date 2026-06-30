@@ -1,0 +1,28 @@
+==================================
+FILE:
+templates/c-project-Makefile
+==================================
+
+CC := clang
+CFLAGS := -Wall -Wextra -Wpedantic -std=c17 -g -O0
+LDFLAGS :=
+
+SRC := main.c
+OBJ := $(SRC:.c=.o)
+BIN := app
+
+.PHONY: all clean run
+
+all: $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(OBJ) $(LDFLAGS) -o $@
+
+%.o: %.c
+	$(CC) $(CFLAGS) -c $< -o $@
+
+run: $(BIN)
+	./$(BIN)
+
+clean:
+	rm -f $(BIN) $(OBJ)
